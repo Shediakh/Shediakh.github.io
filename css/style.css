@@ -1352,8 +1352,8 @@ hr {
 	overflow: hidden;
 	display: inline-block;
 	padding: 10px 30px;
-	font-size: 22px;
-	line-height: 1.5;
+	font-size: 17px;
+	line-height: 0.5;
 	border: 1px solid;
 	font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 	font-weight: 700;
